@@ -9,9 +9,8 @@ $( document ).ready(function whenLoaded(){
 
   // 3. Add an h1 to the page that says "A Spanish Greeting".
 
-  // 4. Add a second greeting ("Que tal?"), below the first.
+  // 4. Add a second greeting ("Que tal?"), in a second column to the right of the first.
 
   // 5. Add the class "blue" to both greetings.
-
 
 });
