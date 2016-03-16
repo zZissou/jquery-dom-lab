@@ -2,7 +2,7 @@
 
 To get started, fork and clone this repo.
 
-Use jquery to select the element containing the words "Hello There" with as many different selectors as you can think of:
+<!-- Use jquery to select the element containing the words "Hello There" with as many different selectors as you can think of:
 
 ``` html
 <!DOCTYPE html>
@@ -15,7 +15,7 @@ Use jquery to select the element containing the words "Hello There" with as many
     </div>
   </div>
 </body>
-```
+``` -->
 
 1. *Get* the value "Hello There".
 2. Change (or *set*) the value to "Hola".
