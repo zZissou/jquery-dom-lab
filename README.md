@@ -1,4 +1,6 @@
-#### jQuery Selector Challenge - [solutions](solutions.md)
+## jQuery Selector Challenge - [solutions](solutions.md)
+
+To get started, fork and clone this repo.
 
 Use jquery to select the element containing the words "Hello There" with as many different selectors as you can think of:
 
