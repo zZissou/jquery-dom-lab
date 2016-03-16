@@ -1,4 +1,9 @@
-## jQuery Selector Challenge - [solutions](solutions.md)
+## jQuery Selector Challenge
+
+Solution in `solution` branch. Checkout with
+```
+git checkout solution
+```
 
 To get started, fork and clone this repo.
 
